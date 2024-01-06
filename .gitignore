@@ -1,0 +1,11 @@
+product/app/EmojiKeyboard/EmojiKeyboard.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/operator/app/Photos/Photos.apk
+vendor/data/camera/vidhance/vidhance.lic
+vendor/etc/dts/dts-eagle.lic
+system_ext/app/TranssionCamera/TranssionCamera.apk
+system_ext/priv-app/TranAodApk/TranAodApk.apk
+system_ext/priv-app/TranSettingsApk/TranSettingsApk.apk
+system_ext/apex/com.android.vndk.v30.apex
